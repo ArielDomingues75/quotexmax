@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Configurações
 TELEGRAM_TOKEN = "AAFgvUOL3klTnrVZeG6_CBs5qmRL_ZZM_hQ"
-QUOTEX_API_KEY = "SUA_QUOTEX_API_KEY"
+QUOTEX_API_KEY = "NCtZWe1qug6tkXTH6CJKsyeSvFYF3F9wvllj38gD"
 CHAT_ID = "7663038618"
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
